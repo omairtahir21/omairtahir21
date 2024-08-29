@@ -79,7 +79,8 @@ Transcending pixels, weaving dreams, and shaping the digital horizon.
 
 ## GitHub Streak Stats
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Asif Taj)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AsifTaj)
+
 
 ## Other Profiles
 
