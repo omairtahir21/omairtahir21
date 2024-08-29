@@ -75,11 +75,11 @@ Transcending pixels, weaving dreams, and shaping the digital horizon.
 
 # GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsifTaj&show_icons=true&locale=en)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaThach&show_icons=true&locale=en)
 
 ## GitHub Streak Stats
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AsifTaj)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=HaThach)
 
 
 ## Other Profiles
