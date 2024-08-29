@@ -75,7 +75,7 @@ Transcending pixels, weaving dreams, and shaping the digital horizon.
 
 # GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omairtahir21&show_icons=true&locale=en)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsifTaj&show_icons=true&locale=en)
 
 ## GitHub Streak Stats
 
