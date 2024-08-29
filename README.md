@@ -3,7 +3,10 @@
 
 Transcending pixels, weaving dreams, and shaping the digital horizon.
 # ![logo](https://raw.githubusercontent.com/omairtahir21/Resume/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
-![Coding](https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)
+<div align="center">
+    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="Coding GIF">
+</div>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=omairtahir21&label=Profile%20Views&color=0e75b6&style=flat)
 
