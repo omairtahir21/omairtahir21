@@ -7,7 +7,7 @@ Transcending pixels, weaving dreams, and shaping the digital horizon.
 </div>
 
 
-![Flutter Badge](https://img.shields.io/github/languages/top/flutter/flutter)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=blue)
 
 
 
