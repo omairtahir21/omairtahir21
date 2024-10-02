@@ -40,7 +40,7 @@ Transcending pixels, weaving dreams, and shaping the digital horizon.
   </tr>
   <tr>
     <td><strong>📄 Learn about my experiences</strong></td>
-    <td><a href="https://www.linkedin.com/in/omairtahir/"><strong>LinkedIn</strong></a></td>
+    <td><a href="https://www.linkedin.com/in/omair-tahir-6b4000299/"><strong>LinkedIn</strong></a></td>
   </tr>
   <tr>
     <td><strong>⚡ Fun fact</strong></td>
