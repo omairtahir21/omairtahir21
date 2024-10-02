@@ -18,10 +18,6 @@ Transcending pixels, weaving dreams, and shaping the digital horizon.
 ![](https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=android&logoColor=white&color=green)
 
 
-
-
-
-
 ## About Me
 
 <table>
