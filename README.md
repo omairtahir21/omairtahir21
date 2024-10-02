@@ -9,7 +9,12 @@ Transcending pixels, weaving dreams, and shaping the digital horizon.
 
 # ![logo](https://raw.githubusercontent.com/omairtahir21/Resume/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=blue)
+<div align="center">
+    ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=blue)
+    ![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=007ACC)
+    ![](https://img.shields.io/badge/Platform-iOS-informational?style=flat&logo=apple&logoColor=white&color=blue)
+    ![](https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=android&logoColor=white&color=green)
+</div>
 
 
 
