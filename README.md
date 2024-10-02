@@ -54,7 +54,7 @@ Transcending pixels, weaving dreams, and shaping the digital horizon.
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/omairtahir/">
+      <a href="https://www.linkedin.com/in/omair-tahir-6b4000299/">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" height="35" /><br/>
         <strong>LinkedIn</strong>
       </a>
