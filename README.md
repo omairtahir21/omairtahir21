@@ -1,5 +1,4 @@
-
-## Hi 👋, I'm Omair Tahir
+# Hey guys! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
 
 Transcending pixels, weaving dreams, and shaping the digital horizon.
 # ![logo](https://raw.githubusercontent.com/omairtahir21/Resume/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
