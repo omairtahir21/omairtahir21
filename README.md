@@ -8,7 +8,8 @@ Transcending pixels, weaving dreams, and shaping the digital horizon.
 </div>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=omairtahir&label=Profile%20Views&color=0e75b6&style=flat)
+![Flutter Badge](https://img.shields.io/github/languages/top/flutter/flutter)
+
 
 
 
